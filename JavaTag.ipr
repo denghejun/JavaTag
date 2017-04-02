@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactManager">
+    <artifact type="exploded-war" name="javatag">
+      <output-path>$PROJECT_DIR$/out/artifacts/javatag</output-path>
+      <root id="root">
+        <element id="javaee-facet-resources" facet="JavaTag/web/Web" />
+        <element id="directory" name="WEB-INF">
+          <element id="directory" name="classes">
+            <element id="module-output" name="JavaTag" />
+          </element>
+        </element>
+      </root>
+    </artifact>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../01 JoinTW-2017.2.10/02 New Hire Orientation/Codes/java8-jersey-spring-boot" value="1487077705000" />
+        <entry key="$PROJECT_DIR$/../../01 JoinTW-2017.2.10/02 New Hire Orientation/Codes/java8-jersey-spring-boot-johannesburg" value="1487209936000" />
+        <entry key="$PROJECT_DIR$/../../01 JoinTW-2017.2.10/03 Projects/gs-rest-service/complete" value="1487931350000" />
+        <entry key="$PROJECT_DIR$/../../01 JoinTW-2017.2.10/03 Projects/gs-rest-service/initial" value="1487598915000" />
+        <entry key="$PROJECT_DIR$/../../01 JoinTW-2017.2.10/03 Projects/java_application" value="2975542158000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaTag.iml" filepath="$PROJECT_DIR$/JavaTag.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
