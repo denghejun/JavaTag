@@ -12,7 +12,7 @@
     <!-- Invoke 'Generate' action to add tags or functions -->
     <tag>
         <name>hello</name>
-        <tag-class>CustomTags.HelloTagHandler</tag-class>
+        <tag-class>handlers.HelloTagHandler</tag-class>
         <body-content>scriptless</body-content>
         <attribute>
             <name>who</name>
